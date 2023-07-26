@@ -1,10 +1,14 @@
 # Watches thou heart
-info:
-heart going insane during sleep so i cured it (im gonna die)
+## info:
+## heart going insane during sleep so i cured it (im gonna die)
 
 
-TODO: Use eufy api to maybe utilize room lights for warning
+---Lazy to do list---
 
-TODO: Add ESP button to remotely stop the code (to prevent earrape)
+* Use eufy api to maybe utilize room lights for warning
 
-TODO: ESP leds for indication? why not haha
+* Add ESP button to remotely stop the code (to prevent earrape)
+  
+* ESP leds for indication? why not haha
+
+* Flatline and disconnect detection? (what if it doesnt change value for 5 seconds, consider it disconnected? flatline depends on what watch will do when it doesnt detect beating heart)
